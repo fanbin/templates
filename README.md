@@ -1,3 +1,3 @@
 templates
 =========
-various templates for lab book, report, review, and etc. 
+Various templates for lab book, report, review, and etc. 
